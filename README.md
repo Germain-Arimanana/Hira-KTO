@@ -12,6 +12,6 @@
 
 #### **- Open source:** Ity tetikasa ity dia open source izany hoe afaka misokatra ho an'ny rehetra ny rindrambaiko ary azo ovaina, 
 
-##### **- Fisaorana:** Isaorana Manokana ho an'i  **[Eugene Heriniaina](github.com/heriniaina)** , **[Katolika.org](katolika.org)** sy ireo **namana namolavola sy nampiditra hira** ary ianao izay efa nampiasa ity fitaovana ity .
+
 
 #### Mpikirakira sy namolavola: **ARIMANANA RAMILA GERMAIN VICTORY**
