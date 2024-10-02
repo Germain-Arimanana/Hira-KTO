@@ -15,3 +15,12 @@
 
 
 #### Mpikirakira sy namolavola: **ARIMANANA RAMILA GERMAIN VICTORY**
+
+
+## **Light theme**
+
+![menu](https://github.com/user-attachments/assets/b3148649-ed41-4398-aedf-056f036705b0)
+
+## **Dark theme**
+
+![details](https://github.com/user-attachments/assets/7b7e8971-e6b4-4a93-9b01-91ed9d6cede9)
