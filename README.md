@@ -1,6 +1,8 @@
 Fihirana Katolika (Android)
 =================
 
+### [Eugene Heriniaina](https://github.com/heriniaina/fihirana-katolika)
+
 Fihirana Katolika *(Android)* dia natao indrindra hampiasaina rehefa sendra tsy misy ny Boky Fihirana na koa rehefa tsy manana ny Boky Fihirana fampiasa ao amin'ny Fiangonana iray ianao. Araka izany dia ezahina hapetraka ato amin'ity *application* ity ireo fihirana rehetra fampiasa amin'ny Fiangonana Katolika. Mivoatra hatrany ny angona *(Base de données)* satria misy hira ahitsy, misy hira vaovao, hisy fihirana vaovao ihany koa. Noho izany dia mila jerena matetitetika ny takelaka izay mitahiry ny Fihirana Katolika.
 
 ## Tantara fohy
