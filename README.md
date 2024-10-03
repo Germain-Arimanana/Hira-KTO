@@ -16,7 +16,7 @@ Mahafaly tokoa raha afaka manampy amin'ny fampidirana sy fanitsiana hira ianao. 
 Isaorana manokana etoana ireo namana izay nandika manontolo na sombiny amin'ny fihirana. Singanina manokana ny namana Isabelle Razafimanalina, Joseph Rahasa izay nanampy be dia be tamin'ny tetikasa tany am-piandohana. Isaorana koa ireo ireo namana maro taty aoriana izay [anaty lisitra eto](https://katolika.org/fihirana/user)
 
 ## Open source
-Nanapa-kevitra izahay ny hamoaka ity tetikasa ity ho *Open source* ka mampiasa ny License GPL 2.0. Maniry koa izahay (tsy voatery) raha apetrakao any ho any ny tamberin-mpankasitrahana ho an'ireo tompon'ny hira, tompon'ny fihirana, namana nandika sy nanampy voalaza etsy ambony.
+Nanapa-kevitra izahay ny hamoaka ity tetikasa ity ho *Open source* ka mampiasa ny License GPL 3.0. Maniry koa izahay (tsy voatery) raha apetrakao any ho any ny tamberin-mpankasitrahana ho an'ireo tompon'ny hira, tompon'ny fihirana, namana nandika sy nanampy voalaza etsy ambony.
 Ny hira sy ny fihirana rehetra dia an'ny tompony avy. Raha tompon'ny hira ianao na tompon'ny fihirana ka maniry ny hanesorana ny fihirana na hira dia afaka mifandray aminay.
 
 ## Hanohana ara-bola
